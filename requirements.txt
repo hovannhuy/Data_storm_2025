@@ -1,0 +1,11 @@
+opencv-python
+pandas
+numpy
+matplotlib
+mediapipe
+torch
+torchvision
+pytorch-lightning
+scikit-learn
+wandb 
+flask

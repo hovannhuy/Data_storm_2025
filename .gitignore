@@ -1,0 +1,21 @@
+# Bỏ qua file video, model và dữ liệu lớn
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.zip
+*.rar
+*.7z
+*.pt
+*.pkl
+*.h5
+*.csv
+*.xlsx
+*.json
+
+# Bỏ các thư mục tạm
+__pycache__/
+data/
+datasets/
+reports/video/
+outputs/
